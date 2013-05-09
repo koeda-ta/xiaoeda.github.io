@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[My Octopress Blog is Not Your Octopress Blog]]></title>
   <link href="http://xiaoeda.github.io/atom.xml" rel="self"/>
   <link href="http://xiaoeda.github.io/"/>
-  <updated>2013-05-08T02:11:06+08:00</updated>
+  <updated>2013-05-10T00:07:16+08:00</updated>
   <id>http://xiaoeda.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
